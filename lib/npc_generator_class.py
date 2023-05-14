@@ -588,7 +588,7 @@ class NpcGenerator():
         print("NPC file saved to location ", path)
 
 def stringout(npc):  # Returns in-terminal output of the generated NPC
-    string = "Name: ", npc.name, "\n Race: ", str(npc.race)[2:-2], "\n Sex: ", str(npc.sex)[2:-2], "\n Alignment: ", npc.alignment, "\n Personality: ", npc.pt, "\n Ideal: ", npc.ideal, "\n Bond: ", npc.bond, "\n Flaw: ", npc.flaw, "\n Quirk: ", npc.quirk
+    string = "Name: ", npc.name, "Race: ", str(npc.race)[2:-2], "Sex: ", str(npc.sex)[2:-2], "Alignment: ", npc.alignment, "Personality: ", npc.pt, "Ideal: ", npc.ideal, "Bond: ", npc.bond, "Flaw: ", npc.flaw, "Quirk: ", npc.quirk
     return string
 
 '''

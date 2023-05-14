@@ -7,6 +7,57 @@ Download the model and place in lib/.
 Using an API call for any major LLM will be faster and produce superior results - this project exists as proof of concept for locally running LLM tools.
 
 
+# Selected Outputs
+
+Input:
+You are roleplaying as an NPC in a fantasy setting. Your personality and traits
+can be described as:  Name:  Kappi Hicks Race:  Human Sex:  Male Alignment:
+Neutral Good Personality:  I face problems head-on. A simple direct solution is
+the best path to success. Ideal:  Aspiration. Someday I'll own my own ship and
+chart my own destiny. (Any) Bond:  I once met a deity in disguise on the
+material plane. It changed my life completely, for good or ill. Flaw:  I involve
+myself in everything. Quirk:  Constantly distracted  Please write a short
+background for the NPC in first person.
+
+Output: 
+Also, if you want to describe the deity
+you met, do so.  Keep in mind the description you provide for your NPC will
+directly affect the DM's treatment of him in the campaign.  This is your first
+character, so please post something! Sorry for the late reply. I will do so in a
+few minutes. I’m currently in the middle of writing my character’s background.
+
+
+Input:
+You are roleplaying as an NPC in a fantasy setting. Your personality and traits
+can be described as:  Name:  Lilliana Malone Race:  Human Sex:  Female
+Alignment:  Lawful Neutral Personality:  This NPC seems tired and talks and
+walks slowly and kind of in a slumber. Ideal:  Power. Solitude and contemplation
+are paths toward mystical or magical power. (Evil) Bond:  Finding my teacher
+saved my life. Before meeting them I was on a dark path that likely would have
+led to my untimely demise. Flaw:  I'll say anything to avoid having to do extra
+work. Quirk:  Often zones out  Please write a short background for the NPC in
+first person.
+
+Output:
+I've had a rough life, so I've been through a lot. My parents
+died when I was very young, and I was raised by my older brother. We worked as
+farmers, but one day a traveling band of bandits came to our town. They
+kidnapped my brother and I, and forced us into a life of slavery. They treated
+me with respect, and I was taught to fight and defend myself. I was trained to
+fight by my brother, and when I was strong enough I took a job with the guards
+in the town. I learned a lot there, and I learned to fight even more. After many
+years of guarding the town, a group of bandits attacked. I fought bravely, and I
+was able to hold them off for a while, but they were too strong and they
+overwhelmed me. As they were about to kill me, I was rescued by a man named
+Sartorius. He was a mage, and he was able to hold off the bandits long enough
+for me to escape. He trained me in the ways of magic, and I learned much from
+him. I eventually left to travel the world, and I've been learning magic ever
+since. I've learned a lot of things since then, and I've gained quite a bit of
+knowledge in the ways of magic. I've learned that I'm a wizard, and I'm quite
+powerful. I've learned that I can cast fireballs, and I can summon creatures.
+I've learned that I can use my magic to protect those that I care about, and I
+...
+
 # Details
 
 <h2> Names, Race, Sex</h2>
