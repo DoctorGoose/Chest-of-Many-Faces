@@ -1,13 +1,11 @@
 # NPCgenerator
 
-WIP Npc generator for use in TTRPGs or whatever else you would like
+WIP Npc generator for use in TTRPGs. Based on Wololo-95's Chest of Many Faces, integrated with 
+MiniLLM running LLAMA-13B. You will need to install MiniLLM according to https://github.com/kuleshov/minillm to this directory.
+Download the model and place in lib/.
 
+Using an API call for any major LLM will be faster and produce superior results - this project exists as proof of concept for locally running LLM tools.
 
-at time of writing name lists contain over 800 names, and personality lists contain between 100 and 300 options
-
-Biases will be created to generate more humans, elves, dwarves and tieflings than the other races. Ideally looking to be able to set custom biases.
-
-working on the idea of having a simple gui
 
 # Details
 
@@ -31,7 +29,3 @@ Bonds, Flaws and Ideals are each calculated from a larger list located in the ma
 <h2>Quirks and Physical Trait</h2>
 <h3> Quirks</h3>
 Quirks are very simple concepts. These are unique identifiers that might make an NPC stick out in the minds of the players. These can be physical gestures, social oddities, or even medical conditions.
-
-<h3>Physical Traits</h3>
-Physical traits are oddities that will stick out near-immediately for player characters. Something is physically off about the character. This could be a sinister prelude to what is yet to come, or a harmless remnant of the character's backstory, or maybe a form of self-expression.
-
